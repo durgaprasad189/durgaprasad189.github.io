@@ -1,22 +1,3 @@
-
-
-Skip to content
-Using Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya Mail with screen readers
-Meet
-My meetings
-Hangouts
-
-1 of 263
-Document from DURGA PRASAD
-Inbox
-
-durga Prasad
-Attachments
-4:35 PM (0 minutes ago)
-to me
-
-5_6073562112821559792.txt 
-Attachments area
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
